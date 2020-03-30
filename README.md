@@ -1,0 +1,2 @@
+# GNE259_Informatica_Industrial
+Praticas
